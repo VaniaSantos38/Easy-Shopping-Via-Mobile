@@ -5,7 +5,6 @@
  <p>
    
      
-<img src="https://github.com/VaniaSantos38/Easy-Shopping-Via-Mobile/blob/master/img/Design%20sem%20nome.png?raw=true" />
-<img src="https://github.com/VaniaSantos38/Easy-Shopping-Via-Mobile/blob/master/img/Design%20sem%20nome%20(1).png?raw=true" />
-   
+<img src="https://github.com/VaniaSantos38/Easy-Shopping-Via-Mobile/blob/master/img/Captura%20de%20tela%202025-11-16%20143453.png?raw=true" />
+
 </p>

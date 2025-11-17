@@ -14,7 +14,11 @@ Temos uma novidade quentinha para você, agora a DevSantos, também tem uma loja
 <br>
 <br>
 <br>
-Feito Com ♥ Vania Santos :wave: [Get in touch!](https://www.facebook.com/vania.santos.7543/)
+<img src="https://github.com/VaniaSantos38/Easy-Shopping-Via-Mobile/blob/master/img/Consumer-Electronics.webp?raw=true" width="400px" />
+<br>
+<br>
+<br>
+:wave: [Get in touch!](https://www.facebook.com/vania.santos.7543/)  Vania Santos
 
 
 
